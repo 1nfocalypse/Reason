@@ -1,2 +1,2 @@
-# reason
+# Reason
 Ultima Ratio Regum.
