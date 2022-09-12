@@ -10,6 +10,9 @@ While the details are still being flushed out, it is hoped that Reason will be a
 simplified, and customizable package. Reason is intended to consolidate many of the pre-exploitation and intelligence gathering steps such that there
 is more time for thinking, and less time spent searching and waiting. 
 
+# Dependencies, Versions, and Customization
+Reason is primarily built on top of preexisting pre-exploitation tools, hence why it's labelled as a framework. Obviously, Reason will not work as intended if you attempt to use a package you have not installed. More information and guides will come as it is built and updated.
+
 # Contributing and License
 This software is FOSS and licensed under GNU GPLv3. As such, no warranty is provided and no liability is held, but you are free to do nearly anything else with it. Pull requests are highly encouraged, and more information on the standards for acceptance will be delineated in the contributing file. For more information, please view the license availabile in the repository.
 
