@@ -11,7 +11,7 @@ simplified, and customizable package. Reason is intended to consolidate many of 
 is more time for thinking, and less time spent searching and waiting. 
 
 # Contributing and License
-This software is FOSS and licensed under GNU GPLv3. As such, no warranty is provided and no liability is held, but you are free to do nearly anything else with it. For more information, please view the license availabile in the repository.
+This software is FOSS and licensed under GNU GPLv3. As such, no warranty is provided and no liability is held, but you are free to do nearly anything else with it. Pull requests are highly encouraged, and more information on the standards for acceptance will be delineating in the contributing file. For more information, please view the license availabile in the repository.
 
 # Disclaimer
 By using Reason, you assume all responsibility incurred through its usage. To avoid penalties, I suggest only employing it against systems for which you
