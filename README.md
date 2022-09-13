@@ -2,7 +2,7 @@
   <img alt="Reason Project Logo" src="https://i.imgur.com/SfreqDs.png">
 </p>
 <h1 align="center">Reason</h3>
-<h6 align="center">Ultima Ratio Regum</h3>
+<h6 align="center">The Last Argument of Kings</h3>
 
 # What is it?
 Reason is a modular pre-exploitation framework with the intent of allowing customizable intelligence reports utilizing a myriad of tools.
