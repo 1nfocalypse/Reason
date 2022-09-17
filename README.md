@@ -11,7 +11,7 @@ simplified, and customizable package. Reason is intended to consolidate many of 
 is more time for thinking, and less time spent searching and waiting. 
 
 # Dependencies, Versions, and Customization
-Reason is primarily built on top of preexisting pre-exploitation tools, hence why it's labelled as a framework. Obviously, Reason will not work as intended if you attempt to use a package you have not installed. More information and guides will come as it is built and updated.
+Reason is primarily built on top of preexisting pre-exploitation tools, hence why it's labelled as a framework. Obviously, Reason will not work as intended if you attempt to use a package you have not installed. More information and guides will come as it is built and updated, along with scripts to install requisite modules and sofware.
 
 Required:
 - Python 3.10+ (necessary to run Reason)
