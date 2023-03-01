@@ -19,7 +19,7 @@ Required:
 Optional:
 - Nmap (necessary for any portscanning/network mapping)
 - threading (necessary for pydirb)
-- request (necessary for pydirb)
+- requests (necessary for pydirb)
 
 # Contributing and License
 This software is FOSS and licensed under [GNU GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3). As such, no warranty is provided and no liability is held, but you are free to do nearly anything else with it. Pull requests are highly encouraged, and more information on the standards for acceptance will be delineated in the [contributing file](contributing.md). For more information, please view the [license](LICENSE) availabile in the repository.
