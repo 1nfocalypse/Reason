@@ -17,7 +17,7 @@ Required:
 - Python 3.10+ (necessary to run Reason)
 
 Optional:
-- Nmap (necessary for any portscanning/network mapping)
+- nmap (necessary for any portscanning/network mapping)
 - time (necessary for pydirb)
 - requests (necessary for pydirb)
 - os (necessary for pydirb)
