@@ -18,7 +18,7 @@
 #
 # Usage Description:
 # This is a Directory Buster rewrite in Python. It is utilized to find unlisted or otherwise unreachable
-# directories via fuzzing. It operates in O(n) time, and given the nature of python, is likely a bit
+# directories via brute force. It operates in O(n) time, and given the nature of python, is likely a bit
 # slower than other implementations, however, is capable of being easily interfaced with by the
 # overarching Reason framework/library.
 #
